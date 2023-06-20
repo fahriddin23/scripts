@@ -6,3 +6,5 @@ echo "$1 is currently eating $2, at the same time drinking $3 -- Total # of argu
 
 echo "$0  has input of $# arguments."
 
+echo $?
+
